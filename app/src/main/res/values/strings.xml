@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">Note Keeper</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_send_mail">Send as email</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_next">Next</string>
+    <string name="action_set_notification">Set Reminder</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="text_view">TextView</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="note_title_hint">Note title</string>
+    <string name="note_text_hint">Note text</string>
+    <string name="note_activity_label">Edit Note</string>
+    <string name="title_activity_note_list">NoteKeeper</string>
+    <string name="title_activity_navigation">NavigationActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="pref_display_name">Display Name</string>
+    <string name="pref_title_general">General</string>
+    <string name="key_user_email_address">user_email_address</string>
+    <string name="pref_email_address">Email Address</string>
+    <string name="pref_title_favourite_social">Favorite social network</string>
+    <string name="pref_default_fav_social">http://facebook.com</string>
+    <string name="summary_display_name">Your display name</string>
+    <string name="summary_email_address">Your Email address</string>
+    <string name="summary_social_network">Choose your favorite social network</string>
+
+    <string name="pref_values_fav_social">
+        <item>http://facebook.com</item>
+        <item>http://twitter.com</item>
+        <item>http://plus.google.com</item>
+    </string>
+    <string name="action_backup_notes">Backup Notes</string>
+    <string name="action_upload_notes">Upload Notes</string>
+</resources>
